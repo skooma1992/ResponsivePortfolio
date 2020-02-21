@@ -1,0 +1,49 @@
+.nav_1 {
+  background-color: teal;
+}
+
+body {
+  background-image : url("background.jpg.png");
+  background-repeat: repeat;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(15, 2, 2);
+  color: white;
+  text-align: center;
+ }
+ 
+ #sticky-footer-portfolio {
+  flex-shrink: none;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(15, 2, 2);
+  color: white;
+  text-align: center;
+ }
+
+.font_1 {
+  color:gray;
+}
+  
+section {
+  background-color: gray;
+  width: 80%;
+  height: 90%;
+  margin-top: 20px;
+  margin: auto;
+
+}
+
+.card{
+  margin-top: 20px;
+}
+  
+ 
+ 
