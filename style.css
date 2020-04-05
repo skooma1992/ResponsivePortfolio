@@ -28,8 +28,9 @@ body {
   text-align: center;
  }
 
-.font_1 {
-  color:gray;
+.font_one {
+  
+  border-style: groove;
 }
   
 section {
@@ -44,6 +45,11 @@ section {
 .card{
   margin-top: 20px;
 }
+
+.headerOne{
+  text-align: center;
+  margin-left: 100px;
   
+}
  
  
